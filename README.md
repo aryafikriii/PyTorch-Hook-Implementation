@@ -13,7 +13,7 @@ This project demonstrates the implementation of PyTorch hooks to traverse all mo
 1. Clone the repository:
 
 ```shell
-git clone [[repository-url]](https://github.com/aryafikriii/PyTorch-Hook-Implementation)
+git clone https://github.com/aryafikriii/PyTorch-Hook-Implementation
 ```
 
 2. Install the required dependencies:
